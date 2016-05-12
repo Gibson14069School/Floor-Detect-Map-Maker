@@ -1,2 +1,2 @@
-# Floor-Ditect-Map-Maker
+# Floor-Detect-Map-Maker
 School project.
